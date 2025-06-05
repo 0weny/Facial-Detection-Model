@@ -1,6 +1,8 @@
 # 🙂 Facial-Detection-Model
 CNN 기반 모델을 정의하고 softmax로 7가지 감정을 분류하는 모델
 
+https://colab.research.google.com/drive/1Xhv6mmdlQkNTkFj05Aay3UFO5eS5aGWq?usp=sharing 
+
 # 1. Data Set 정보
 
 Kaggle의 Balanced FER2013 사용
@@ -14,6 +16,9 @@ Kaggle의 Balanced FER2013 사용
 총 이미지 수: 62,923개
 
 수업당 이미지 수: 8,989
+
+![image](https://github.com/user-attachments/assets/4bdab590-8ec4-4cc5-b263-8644a25c02f3)
+
 
 ![image](https://github.com/user-attachments/assets/190fa73e-dc6e-4911-abb3-5689f673d67d)
 
